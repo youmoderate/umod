@@ -1,2 +1,2 @@
 # umod
-youmoderate.com website
+youmoderate.org website
